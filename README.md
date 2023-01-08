@@ -1,4 +1,4 @@
 # ChatGpt-CodeX
-This is a practice project. This project have been made by using OPENAI API.
+This is a practice project. This project had made by using OPENAI API.
 
 Live Link - [https://chat-gpt-codex-pi.vercel.app/]
